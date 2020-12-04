@@ -1,0 +1,16 @@
+.container {
+  background: white;
+  border-radius:15px;
+  width: 363px;
+  padding: 25px;
+  margin: auto;
+  color: black;
+  height: 255px;
+
+}
+body {
+    --cor-principal: rgb(17,86,102);
+    background-color: var(--cor-principal);
+    font-family: Helvetica, sans-serif
+}
+

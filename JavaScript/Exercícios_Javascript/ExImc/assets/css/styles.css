@@ -1,0 +1,80 @@
+body {
+  background:rgb(17,86,102);
+  color: white;
+}
+h1 {
+  font-size: 29px;
+}
+section {
+  background: white;
+  border-radius:15px;
+  width: 463px;
+  padding: 25px;
+  margin: auto;
+  color: black;
+  height: 855px;
+
+}
+div#msg {
+  margin-top: 43px;
+  font-size: 15.6px;
+  text-align: center;
+  height: 49px;
+}
+input#peso {
+  width: 450px;
+  height: 35px;
+}
+input#text2 {
+  width: 450px;
+  height: 35px;
+}
+p {
+  text-align: initial;
+}
+.calcu {
+  background-color: #2F4F4F;
+  text-align: center;
+  height: 65px;
+
+}
+.sl {
+  background-color: white;
+  margin-top: 13px;
+  width: 250px;
+}
+.Men {
+    float: right;
+    margin-top: 1.1px;
+    margin-left: 250px;
+}
+.Min {
+    float: right;
+    margin-top: 95px;
+    margin-left: 0px;
+}
+.Mun {
+    float: right;
+    margin-right:5px;
+    margin-left: 210px;
+}
+.Man {
+    float: right;
+    margin-top: 1.1px;
+    margin-left: 210px;
+}
+.Mn {
+    float: right;
+    margin-top: 11.1px;
+    margin-left: 250px;
+}
+.Ms {
+    float: right;
+    margin-top: 7.1px;
+    margin-left: 210px;
+}
+.Mdn {
+    float: right;
+    margin-top: 25.1px;
+    margin-left: 210px;
+}
